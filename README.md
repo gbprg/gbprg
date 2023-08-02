@@ -12,7 +12,7 @@ I'm always studying and learning more about the technologies I work with. I'm ac
 
 ## Technologies I use in my day
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,typescript,bootstrap,php,python,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,typescript,bootstrap)](https://skillicons.dev)
 
 ## Email
 social.gabrielgbd@gmail.com
