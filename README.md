@@ -21,7 +21,7 @@ I'm always studying and learning more about the technologies I work with. I'm ac
 
 ## Technologies that i daily work on
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,typescript,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,flutter)](https://skillicons.dev)
 
 ## Email
 
