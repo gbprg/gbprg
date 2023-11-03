@@ -3,14 +3,14 @@
 ### Olá, Eu sou o Gabriel Duarte 👋
 
 Tenho 25 anos e comecei a estudar programação em 2022. Sou uma pessoa extremamente esforçada, que se cobra muito para evoluir. Sou altamente capaz de me superar em diferentes desafios e busco aprender cada dia mais para entregar sempre os melhores resultados!
-Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais trabalho. Na verdade, estou aprendendo mais sobre ReactJS e comecei a aprender C#.
+Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais trabalho. Na verdade, estou aprendendo mais sobre ReactJS.
 
 ## (EN-US)
 
 ### Hello, I'm Gabriel Duarte 👋
 
 I'm 25 years old and I started studying programming in 2022. I'm an extremely hardworking person, who demands a lot to evolve. I am highly capable of overcoming myself in different challenges and I seek to learn more every day to always deliver the best results!
-I'm always studying and learning more about the technologies I work with. I'm actually learning more about ReactJS and started learning C#.
+I'm always studying and learning more about the technologies I work with. I'm actually learning more about ReactJS.
 
 ## Socials
 
@@ -21,7 +21,7 @@ I'm always studying and learning more about the technologies I work with. I'm ac
 
 ## Technologies that i daily work on
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)
 
 ## Email
 
