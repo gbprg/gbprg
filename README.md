@@ -11,7 +11,7 @@ Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais traba
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gbprg&show_icons=true&theme=radical)
 
-## Tecnologias que uso 
+## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,typescript,tailwind,java,spring,cs,dotnet,mongodb,mysql)](https://skillicons.dev)
 
