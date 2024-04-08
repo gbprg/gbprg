@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Gabriel Duarte 👋
 
 Tenho 25 anos e comecei a estudar programação em 2022. Sou uma pessoa extremamente esforçada, que se cobra muito para evoluir. Sou altamente capaz de me superar em diferentes desafios e busco aprender cada dia mais para entregar sempre os melhores resultados!
-Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais trabalho. Atualmente, estou aprimorando minhas habilidades em ReactJS.
+Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais trabalho. Atualmente, estou me dedicando ao desenvolvimento FullStack.
 
 
 ## Sociais
@@ -13,7 +13,7 @@ Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais traba
 
 ## Tecnologias que uso no meu dia-a-dia
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,typescript,tailwind,java,spring,cs,dotnet,mongodb,mysql)](https://skillicons.dev)
 
 ## Email
 
