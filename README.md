@@ -13,7 +13,7 @@ Estou sempre estudando e aprendendo mais sobre as tecnologias com as quais traba
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,express,postgres,prisma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,express,postgres,prisma,docker,dotnet)](https://skillicons.dev)
 
 ## Email
 
